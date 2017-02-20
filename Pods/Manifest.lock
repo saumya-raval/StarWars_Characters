@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.3.0)
+  - CSVImporter (1.7.0):
+    - HandySwift (~> 2.0)
+  - HandySwift (2.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - CSVImporter (~> 1.7)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  CSVImporter: 1f1a90ae0148efe933839b87560b8670949dfbc5
+  HandySwift: 6076bd78ab377363004dee948d8cc19ee40b3ce6
+
+PODFILE CHECKSUM: 4ab380b3592410fddc21c1e64871f5f301277ef8
+
+COCOAPODS: 1.1.1
